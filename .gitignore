@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+
+# Local configuration files
+local.properties
+
+# Log files
+*.log
+
+# Generated binary files
+*.apk
+*.ap_ 
+*.aab
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+*.swp
+
+# NDK
+obj/
+.externalNativeBuild/
+
+# IntelliJ
+out/
+
+# Misc
+captures/
