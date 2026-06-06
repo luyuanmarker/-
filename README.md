@@ -1,4 +1,4 @@
-# EventEditor
+# 世4挑征事件编辑器
 
 Android app project for editing events.
 

@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EventEditor"
+rootProject.name = "世4挑征事件编辑器"
 include(":app")
